@@ -40,7 +40,7 @@ img {
     height: 8px;
     left: 0px;
     top: 60%;
-    background: #A11F41;
+    background: none;
 }
 
 .socmed {
@@ -107,6 +107,25 @@ ul {
 
     .socmed {
         font-size: 10px;
+    }
+
+    .main h2 {
+        margin-left: 5px;
+        font-size: 20px;
+    }
+
+    .main span {
+        font-style: italic;
+    }
+    
+    .main h6 {
+        font-size: 15px;
+    }
+
+    .main p {
+        font-size: 10px;
+        margin-bottom: 10px;
+        font-style: italic;
     }
 }
 
